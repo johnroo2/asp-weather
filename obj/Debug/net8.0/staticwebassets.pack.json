@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/johnliu/Documents/vscode-workspace/asp-weather/obj/Debug/net8.0/scopedcss/projectbundle/asp-weather.bundle.scp.css",
+      "PackagePath": "staticwebassets/asp-weather.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/johnliu/Documents/vscode-workspace/asp-weather/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/johnliu/Documents/vscode-workspace/asp-weather/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/johnliu/Documents/vscode-workspace/asp-weather/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/johnliu/Documents/vscode-workspace/asp-weather/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.asp-weather.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.asp-weather.props",
+      "PackagePath": "build\\asp-weather.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.asp-weather.props",
+      "PackagePath": "buildMultiTargeting\\asp-weather.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.asp-weather.props",
+      "PackagePath": "buildTransitive\\asp-weather.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
